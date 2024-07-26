@@ -1,2 +1,2 @@
 nginx
-fam/tetools:latest
+dfam/tetools:latest
