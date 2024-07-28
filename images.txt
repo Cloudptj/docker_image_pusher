@@ -1,2 +1,1 @@
-nginx
-dfam/tetools:latest
+teambraker/braker3
