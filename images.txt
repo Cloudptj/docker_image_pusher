@@ -1,1 +1,2 @@
 teambraker/braker3
+dfam/tetools:latest
