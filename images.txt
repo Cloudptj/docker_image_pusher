@@ -1,2 +1,3 @@
 teambraker/braker3
 dfam/tetools:latest
+dizcza/docker-hashcat
