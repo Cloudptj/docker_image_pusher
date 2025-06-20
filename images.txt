@@ -1,5 +1,7 @@
 #teambraker/braker3
 #dfam/tetools:latest
 #dizcza/docker-hashcat
-dizcza/docker-hashcat:intel-cpu
-dizcza/docker-hashcat:pocl
+#dizcza/docker-hashcat:intel-cpu
+#dizcza/docker-hashcat:pocl
+dizcza/docker-hashcat:cuda
+dizcza/docker-hashcat:cuda12.1
